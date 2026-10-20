@@ -316,7 +316,7 @@ Cada repositorio tiene su propio README con el detalle completo de configuració
 
 [![Ver demo en YouTube](https://img.youtube.com/vi/IghWtxwE6Ts/hqdefault.jpg)](https://www.youtube.com/watch?v=IghWtxwE6Ts)
 
-▶️ [Demo principal](https://www.youtube.com/watch?v=IghWtxwE6Ts) · ➕ [Video complementario](https://www.youtube.com/watch?v=xzheMmXe0Uc)
+▶️ [Ver la demo en YouTube](https://www.youtube.com/watch?v=IghWtxwE6Ts)
 
 </div>
 
