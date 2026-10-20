@@ -11,7 +11,7 @@ Catálogo, carrito, pagos con **MercadoPago**, seguimiento de pedidos **en tiemp
 [![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/IgnacioOdorico/FoodStore-BACKEND)
 [![Store](https://img.shields.io/badge/Store-React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/IgnacioOdorico/FoodStore-FRONTEND-STORE)
 [![Admin](https://img.shields.io/badge/Admin-React_19-8B5CF6?style=for-the-badge&logo=react&logoColor=white)](https://github.com/IgnacioOdorico/FoodStore-FRONTEND-ADMIN)
-[![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HCHS3oAsbC4)
+[![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=IghWtxwE6Ts)
 
 <br/>
 
@@ -314,9 +314,9 @@ Cada repositorio tiene su propio README con el detalle completo de configuració
 
 <div align="center">
 
-[![Ver demo en YouTube](https://img.youtube.com/vi/HCHS3oAsbC4/hqdefault.jpg)](https://www.youtube.com/watch?v=HCHS3oAsbC4)
+[![Ver demo en YouTube](https://img.youtube.com/vi/IghWtxwE6Ts/hqdefault.jpg)](https://www.youtube.com/watch?v=IghWtxwE6Ts)
 
-▶️ [Demo principal](https://www.youtube.com/watch?v=HCHS3oAsbC4) · ➕ [Video complementario](https://www.youtube.com/watch?v=xzheMmXe0Uc)
+▶️ [Demo principal](https://www.youtube.com/watch?v=IghWtxwE6Ts) · ➕ [Video complementario](https://www.youtube.com/watch?v=xzheMmXe0Uc)
 
 </div>
 
